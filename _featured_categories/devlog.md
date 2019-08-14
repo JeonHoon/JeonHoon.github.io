@@ -1,7 +1,7 @@
 ---
 layout: list
-title: front-end-log
-slug: front-end-log
+title: Devlog
+slug: Devlog
 menu: true
 submenu: true
 order: 8
