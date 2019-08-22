@@ -2,7 +2,7 @@
 layout: tag-blog
 title: Algorithm
 slug: algorithm
-category: devlog
+category: /*devlog*/
 menu: false
 order: 4
 ---
