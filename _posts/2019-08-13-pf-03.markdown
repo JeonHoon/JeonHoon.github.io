@@ -1,1 +1,23 @@
+---
+layout: post
+title: "현우산업"
+subtitle: "[2015년 작업]"
+categories: portfolio
+tags: 
+---
 
+파견 복귀 후에 작업한 홈페이지
+
+## 현우산업
+
+[![현우산업메인](/assets/img/hyunwoo_main.jpg)](#)
+
+와일드한 화면에서 보기 좋은 레이아웃을 구성하여 만들었다.
+
+[![현우산업메인](/assets/img/hyunwoo_main_m.jpg)](#)
+
+
+## 마치며
+---
+
+일정에 맞게 협조를 해준 덕분에 빠르게 진행될수 있었고 디자이너 / 개발자 / 퍼블리셔가 합이 맞아지는 느낌이 많이 들었다.
