@@ -14,7 +14,7 @@ tags:
 
 와일드한 화면에서 보기 좋은 레이아웃을 구성하여 만들었다.
 
-[![현우산업메인](/assets/img/hyunwoo_main_m.jpg)](#)
+[![현우산업메인](/assets/img/hyunwoo_main_m.png)](#)
 
 
 ## 마치며
