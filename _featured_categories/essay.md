@@ -1,8 +1,8 @@
 ---
 layout: list
 title: Essay
-slug: essay
-menu: true
+slug: false
+menu: false
 submenu: false
 order: 4
 description: >
