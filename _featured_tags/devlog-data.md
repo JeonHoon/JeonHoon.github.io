@@ -2,7 +2,7 @@
 layout: tag-blog
 title: Data
 slug: data
-category: devlog
+category: /*devlog*/
 menu: false
 order: 2
 ---
