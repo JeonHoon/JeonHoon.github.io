@@ -8,6 +8,12 @@ tags:
 
 브랜딩화를 해달라는 요구가 있어 디자인에 힘이 엄청 실려있는 홈페이지이
 
+## 제작참여도
+
+Front-end : 50%
+
+TEAM : designer 2 / Developer 2 / publisher 2
+
 
 ## 프라임마켄
 
