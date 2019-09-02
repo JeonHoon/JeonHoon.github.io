@@ -6,7 +6,19 @@ categories: portfolio
 tags: 
 ---
 
+## 제작참여도
+
+Front-end : 100%
+
+TEAM : designer 1 / Developer 2 / publisher 1
+
+저작권위원회 본사에 상주하며 작업
+
+개발자와 디자이너는 다른 회사에서 담당.
+
+
 ## 한국저작권위원회 홈페이지 교육부분 퍼블리싱 지원 및 웹 접근성 마크 작업.
+
 
 
 [![한국저작권위원회_메인](/assets/img/copyright_main.jpg)](#)
