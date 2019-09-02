@@ -8,6 +8,13 @@ tags:
 
 학생들이 영어 수업을 들을 수 있는 이러닝 홈페이지
 
+## 제작참여도
+
+Front-end : 100%
+
+TEAM : designer 1 / Developer 3 / publisher 1
+
+
 ## 창원-i english 홈페이지 개편
 
 
