@@ -8,6 +8,10 @@ tags:
 
 파견 복귀 후에 작업한 홈페이지
 
+## 제작참여도
+
+Front-end : 100%
+
 ## 현우산업
 
 [![현우산업메인](/assets/img/hyunwoo_main.jpg)](#)
