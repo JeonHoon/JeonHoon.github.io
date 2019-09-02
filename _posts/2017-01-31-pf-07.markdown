@@ -1,1 +1,40 @@
+---
+layout: post
+title: "부산광역시교육정보원 교육용 앱"
+subtitle: "[2017년 작업]"
+categories: portfolio
+tags: 
+---
+
+학생들이 직접 어플로 체험할수 있는 앱
+
+## 제작참여도
+
+Front-end : 100%
+
+TEAM : designer 1 / Developer 2 / publisher 1
+
+REACT-NATIVE를 처음 개시한 앱
+
+처음이라 기본적으로 안정적으로 만들었다.
+
+
+## 부산광역시교육정보원 교육용 앱
+
+
+[![리엑트앱인트로](/assets/img/react_intro.jpg)](#)
+[![리엑트앱메인](/assets/img/react_main.jpg)](#)
+
+
+## 마치며
+
+부산에 직접 출장가서 VR용 사진 촬영도 하고 
+
+여러군대 다니느라 참 힘들었다.
+
+촬영해온 사진을 편집하고 VR로 만들어서 업로드해서 React-native툴안에 넣는게 쉽지만은 않았던거같다.
+
+
+
+---
 
