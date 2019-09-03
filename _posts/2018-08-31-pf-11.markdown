@@ -20,7 +20,7 @@ TEAM :  Developer 1 / publisher 1
 ## 경남과학기술대학교 발전기금 홈페이지
 
 
-[![발전기금 메인](/assets/img/devfund_main.jpg)](#)
+[![발전기금 메인](/assets/img/devfund_main.png)](#)
 
 
 ## 마치며
