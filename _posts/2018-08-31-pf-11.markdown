@@ -1,1 +1,35 @@
+---
+layout: post
+title: "경남과학기술대학교 발전기금 홈페이지"
+subtitle: "[2018년 작업]"
+categories: portfolio
+tags: 
+---
+
+신규제작 발전기금 홈페이지
+
+## 제작참여도
+
+Front-end : 100% 
+
+디자인 : 100%
+
+TEAM :  Developer 1 / publisher 1
+
+
+## 경남과학기술대학교 발전기금 홈페이지
+
+
+[![발전기금 메인](/assets/img/devfund_main.jpg)](#)
+
+
+## 마치며
+
+담당자에게 요청한 자료들이 너무 늦게와서 늦춰진 프로젝트
+
+공무원과의 작업은 힘든것 같다.
+
+---
+
+
 
