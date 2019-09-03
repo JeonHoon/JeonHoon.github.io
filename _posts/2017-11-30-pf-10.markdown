@@ -1,1 +1,32 @@
+---
+layout: post
+title: "경남과학기술대학교 LINC+ 홈페이지"
+subtitle: "[2017년 작업]"
+categories: portfolio
+tags: 
+---
+
+신규제작 LINC+ 홈페이지
+
+## 제작참여도
+
+Front-end : 100%
+
+TEAM : designer 1 / Developer 1 / publisher 1
+
+
+## 경남과학기술대학교 LINC+ 홈페이지
+
+
+[![링크홈페이지 메인](/assets/img/linc_main.jpg)](#)
+
+
+## 마치며
+
+담당자가 생각하는 기능을 다 넣으려니 너무 힘들어 
+
+담당자와의 미팅이 많았던 사업.
+
+---
+
 
